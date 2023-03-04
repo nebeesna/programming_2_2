@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf - 8"?><xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<TaskInfo>
+  <Author>
+    <LastName>Dorosh</LastName>
+    <Country>Ukraine</Country>
+    <Article>
+      <Title>Sun</Title>
+    </Article>
+    <Article>
+      <Title>Earth</Title>
+    </Article>
+  </Author>
+  <Author>
+    <LastName>John</LastName>
+    <Country>England</Country>
+    <Article>
+      <Title>Rain</Title>
+    </Article>
+  </Author>
+  <Author>
+    <LastName>Ostapchuk</LastName>
+    <Country>Ukraine</Country>
+    <Article>
+      <Title>Flower</Title>
+    </Article>
+    <Article>
+      <Title>Cloud</Title>
+    </Article>
+  </Author>
+</TaskInfo>
